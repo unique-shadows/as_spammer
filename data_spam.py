@@ -8,7 +8,7 @@ proxies = {
 while True:
     a = get(
         'https://user-verify-pearl.vercel.app/pwhls?link=Abhi data chor hai, sudhar jaa bhai, tere bhale ke liye kah rha hun', 
-        proxies=proxies
+        # proxies=proxies
         
         )
     
