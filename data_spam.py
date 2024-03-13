@@ -1,8 +1,8 @@
 from requests import get
 
 proxies = {
-    'http': 'http://gofw8axb8qtmdr:gdmfjuci61ip31n7oghrct6w1nq@proxy.quotaguard.com:9292',
-    'https': 'http://gofw8axb8qtmdr:gdmfjuci61ip31n7oghrct6w1nq@proxy.quotaguard.com:9292'
+    'http': 'http://pz600g667zu7ad:9i21feayawlhh3rlbz6i9ea53vck79@proxy.quotaguard.com:9292',
+    'https': 'http://pz600g667zu7ad:9i21feayawlhh3rlbz6i9ea53vck79@proxy.quotaguard.com:9292'
 }
 
 while True:
