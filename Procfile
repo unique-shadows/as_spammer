@@ -1,0 +1,1 @@
+worker: python3 data_spam.py
