@@ -12,4 +12,4 @@ while True:
         
         )
     
-    print(a.json(), a.status_code)
+    print(a.status_code)
