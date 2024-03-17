@@ -7,7 +7,7 @@ proxies = {
 
 while True:
     a = get(
-        'https://user-verify-pearl.vercel.app/pwhls?link=Abhi data chor hai, sudhar jaa bhai, tere bhale ke liye kah rha hun', 
+        'https://api.alphastudyofficial.live/alpha/pw-khazana/get/lectures?khazana_slug=11th-jee-khazana-607507&subject_slug=complete-mathematics---11th-845097&teacher_slug=complete-mathematics-by-253144&chapter_slug=62cc8cd39f43b7001293d1c0'
         # proxies=proxies
         
         )
